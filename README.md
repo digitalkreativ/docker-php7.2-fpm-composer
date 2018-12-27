@@ -1,8 +1,8 @@
-# PHP 7.1 FPM with composer
+# PHP 7.2 FPM with composer
 
 This image contains:
 
-* [digitalkreativ/docker-php7.1-fpm](https://github.com/digitalkreativ/docker-php7.1-fpm) which is php:7.1-fpm with extra plugins and extensions.
+* [digitalkreativ/docker-php7.2-fpm](https://github.com/digitalkreativ/docker-php7.2-fpm) which is php:7.2-fpm with extra plugins and extensions.
 * [composer](https://getcomposer.org/)
 
 **Note** 
